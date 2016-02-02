@@ -374,7 +374,7 @@ h3{
 /* footer section */
 .footer{
 	margin-top:15px;
-	
+    margin-bottom:15px;	
 }
 .footer a,.footer a:hover{
 	color:inherit;
@@ -406,6 +406,9 @@ h3{
 }
 .key{
 	background-color:gray;
+}
+.twitter-share-button{
+    margin-top:5px;
 }
 
 /* ********************************** */
